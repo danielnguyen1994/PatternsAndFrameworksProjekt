@@ -16,6 +16,9 @@ public class Main extends Application {
 			primaryStage.setScene(scene);
 			primaryStage.show();
 		} catch(Exception e) {
+			//sadasdas
+			
+			//ASDHASUDHASDUHASDUh
 			e.printStackTrace();
 		}
 	}
@@ -23,7 +26,9 @@ public class Main extends Application {
 	public static void main(String[] args) {
 		launch(args);
 		//HelloD
-		///SADJIASDJSI
+		
 		///SSDJSIJADIDJSJDIAJSDIDJASIASJDIJI
+		
+		//Belkilinda
 	}
 }
