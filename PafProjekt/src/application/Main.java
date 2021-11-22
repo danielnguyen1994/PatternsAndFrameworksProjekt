@@ -16,7 +16,7 @@ public class Main extends Application {
 			primaryStage.setScene(scene);
 			primaryStage.show();
 			
-			int a ;
+			int b;
 		} catch(Exception e) {
 			//sadasdas
 			
@@ -31,6 +31,6 @@ public class Main extends Application {
 		
 		///SSDJSIJADIDJSJDIAJSDIDJASIASJDIJI
 		
-		//Belkilinda
+		
 	}
 }
