@@ -30,7 +30,11 @@ public class Main extends Application {
 		//HelloD
 		//Test
 		///SSDJSIJADIDJSJDIAJSDIDJASIASJDIJI
+<<<<<<< HEAD
 		
 		
+=======
+		/// saluuuuuuut
+>>>>>>> 31d80b6cc44d882af2547a7c6f453a2cff247b42
 	}
 }
